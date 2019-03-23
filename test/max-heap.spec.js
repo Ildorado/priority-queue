@@ -1,4 +1,5 @@
 const Node = require('../src/node');
+
 const MaxHeap = require('../src/max-heap');
 
 describe('MaxHeap', () => {
